@@ -14,4 +14,5 @@ i solve leetcode solutions here
 | [0620-not-boring-movies](https://github.com/prajwal3335/leet_code_solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/prajwal3335/leet_code_solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/prajwal3335/leet_code_solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1193-monthly-transactions-i](https://github.com/prajwal3335/leet_code_solutions/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
