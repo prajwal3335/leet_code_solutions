@@ -16,4 +16,5 @@ i solve leetcode solutions here
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/prajwal3335/leet_code_solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1193-monthly-transactions-i](https://github.com/prajwal3335/leet_code_solutions/tree/master/1193-monthly-transactions-i) |
 | [1693-daily-leads-and-partners](https://github.com/prajwal3335/leet_code_solutions/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/prajwal3335/leet_code_solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
