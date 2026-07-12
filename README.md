@@ -15,6 +15,7 @@ i solve leetcode solutions here
 | [0627-swap-sex-of-employees](https://github.com/prajwal3335/leet_code_solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/prajwal3335/leet_code_solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1193-monthly-transactions-i](https://github.com/prajwal3335/leet_code_solutions/tree/master/1193-monthly-transactions-i) |
+| [1587-bank-account-summary-ii](https://github.com/prajwal3335/leet_code_solutions/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/prajwal3335/leet_code_solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/prajwal3335/leet_code_solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prajwal3335/leet_code_solutions/tree/master/1757-recyclable-and-low-fat-products) |
