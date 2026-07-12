@@ -17,4 +17,5 @@ i solve leetcode solutions here
 | [1193-monthly-transactions-i](https://github.com/prajwal3335/leet_code_solutions/tree/master/1193-monthly-transactions-i) |
 | [1693-daily-leads-and-partners](https://github.com/prajwal3335/leet_code_solutions/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/prajwal3335/leet_code_solutions/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1757-recyclable-and-low-fat-products](https://github.com/prajwal3335/leet_code_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
