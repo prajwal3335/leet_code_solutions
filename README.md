@@ -9,6 +9,7 @@ i solve leetcode solutions here
 | [0175-combine-two-tables](https://github.com/prajwal3335/leet_code_solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/prajwal3335/leet_code_solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/prajwal3335/leet_code_solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0607-sales-person](https://github.com/prajwal3335/leet_code_solutions/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/prajwal3335/leet_code_solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/prajwal3335/leet_code_solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/prajwal3335/leet_code_solutions/tree/master/0620-not-boring-movies) |
