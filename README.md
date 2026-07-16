@@ -31,5 +31,6 @@ i solve leetcode solutions here
 | [1873-calculate-special-bonus](https://github.com/prajwal3335/leet_code_solutions/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/prajwal3335/leet_code_solutions/tree/master/1890-the-latest-login-in-2020) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/prajwal3335/leet_code_solutions/tree/master/1978-employees-whose-manager-left-the-company) |
+| [3436-find-valid-emails](https://github.com/prajwal3335/leet_code_solutions/tree/master/3436-find-valid-emails) |
 | [3570-find-books-with-no-available-copies](https://github.com/prajwal3335/leet_code_solutions/tree/master/3570-find-books-with-no-available-copies) |
 <!---LeetCode Topics End-->
